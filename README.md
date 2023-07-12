@@ -29,8 +29,8 @@
 
 - Desktop design
 
-![Alt text](image.png)
+![Alt text](src/img/image.png)
 
 - Mobile design
 
-![Alt text](image-1.png)
+![Alt text](src/img/image-1.png)
