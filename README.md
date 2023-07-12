@@ -10,7 +10,7 @@
 - CSS
 
 ## Aprendizado
- - Neste projeto, aprendi a posicionar os elementos com o flexbox. Admito que inicialmente estava com difuiculdades para entender a dinâmica do flexbox. 
+ - Neste projeto, aprendi a posicionar os elementos com o flexbox. Admito que inicialmente estava com dificuldades para entender a dinâmica do flexbox. 
  - Aprendi que o CSS só enxerga a hierarquia pai-filho;
  - Para que as propriedades funcionem nos elementos-filhos, as pais devem ter propriedade display: flex.
 
